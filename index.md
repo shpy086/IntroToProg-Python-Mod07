@@ -14,3 +14,4 @@ In the third and final layer of the script, the presentation layer, the user is 
 
 Figure 2
 
+![Figure 2](https://github.com/shpy086/IntroToProg-Python-Mod07/blob/master/Figure2.png)
