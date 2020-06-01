@@ -21,3 +21,9 @@ When running the script in PyCharm, it executes the script successfully. In this
 Figure 3
 
 ![Figure 3]( https://github.com/shpy086/IntroToProg-Python-Mod07/blob/master/Figure3.png) 
+
+After testing the script in PyCharm, we then tested the script in the command terminal. In this case, the user inputted the sport as “basketball” and the team as “Knicks”. Figure 4 shows the script running in the command terminal:
+
+Figure4
+
+
