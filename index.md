@@ -15,3 +15,9 @@ In the third and final layer of the script, the presentation layer, the user is 
 Figure 2
 
 ![Figure 2](https://github.com/shpy086/IntroToProg-Python-Mod07/blob/master/Figure2.png)
+
+When running the script in PyCharm, it executes the script successfully. In this case, when the user is prompted to enter a sport, they input “football” and when prompted to enter a team, they input “Giants”. When the two are combined, they form a list object. The sport is the category of the list object and the team is one of the teams within that category. Figure 3 below shows the script running in PyCharm:
+
+Figure 3
+
+![Figure 3]( https://github.com/shpy086/IntroToProg-Python-Mod07/blob/master/Figure3.png) 
