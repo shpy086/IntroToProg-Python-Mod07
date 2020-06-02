@@ -6,7 +6,7 @@ Pickling is a technique that allows us to preserve data in binary format as oppo
 
 **Figure 1**
 
-![Figure 1](Figure1.png)
+![Figure 1](https://github.com/shpy086/IntroToProg-Python-Mod07/blob/master/Figure1.png)
 
 In the data layer, I declare the two variables that we will be using: the first is the .dat file and the second is the list object that will be stored in the file. In the processing layer of the code, we have created two functions that that will be used to manipulate the user’s data. The first function will write the data to a .dat file in binary code. The second function will read binary code from the .dat file and convert it back to readable format. 
 
